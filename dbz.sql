@@ -1,0 +1,20 @@
+INSERT INTO dbz.characterdbz
+(id, 
+is_hero, 
+is_ki_base,
+is_ki_saiyan,
+is_other_hero, 
+is_ray_base, 
+is_ray_saiyan, 
+img_url, 
+name)
+VALUES(
+    1, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    '', 
+    'Goku');
